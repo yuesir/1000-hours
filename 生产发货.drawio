@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-10-25T09:02:54.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="fVeaHdNH-EXHVzBCMQ8G" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-25T09:03:23.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="eVgfyKtzr3iHVruT7okx" version="24.6.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,9 @@
           <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-2QpKQ5pJ6gFct8JS3w-4" value="仓库系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="200" height="540" as="geometry" />
+          <mxGeometry x="550" y="80" width="200" height="540" as="geometry">
+            <mxRectangle x="550" y="80" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="i-2QpKQ5pJ6gFct8JS3w-9" value="创建发货批次等记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i-2QpKQ5pJ6gFct8JS3w-4">
           <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
